@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-labelledby="t d">
+<title id="t">Liberty Geotechnics Ltd</title><desc id="d">Earth layers and drilling rig icon with company name</desc>
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#245b2b"/><stop offset="1" stop-color="#6f963e"/></linearGradient></defs>
+<path d="M10 103 Q68 65 130 91 L145 111 L10 111Z" fill="#74431f"/>
+<path d="M10 94 Q66 53 132 83 L145 99 Q73 75 10 108Z" fill="#a66a32"/>
+<path d="M24 82 L24 55 L49 41 L49 77Z M53 77 L53 29 L82 14 L82 73Z M87 72 L87 46 L110 34 L110 82Z" fill="url(#g)"/>
+<path d="M118 14 L118 85 M108 85 L128 85 M112 32 L124 32 M118 14 L131 27" stroke="#74431f" stroke-width="5" fill="none" stroke-linecap="round"/>
+<path d="M132 83 Q143 92 152 104" stroke="#245b2b" stroke-width="7" fill="none"/>
+<text x="168" y="57" font-family="Arial,sans-serif" font-size="47" font-weight="900" fill="#245b2b" letter-spacing="-1.8">LIBERTY</text>
+<text x="170" y="91" font-family="Arial,sans-serif" font-size="28" font-weight="800" fill="#74431f" letter-spacing=".2">GEOTECHNICS LTD</text>
+<text x="172" y="115" font-family="Arial,sans-serif" font-size="15" font-style="italic" font-weight="600" fill="#343b2d">Grounded in Excellence</text>
+</svg>
